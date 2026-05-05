@@ -1,0 +1,80 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link rel="dns-prefetch" href="https://fonts.googleapis.com"><link rel="dns-prefetch" href="https://fonts.gstatic.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@500;600;700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet" media="print" onload='this.media="all"'><noscript><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@500;600;700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet"></noscript><link rel="icon" href="/favicon.ico?v=2"/><meta name="viewport" content="width=device-width,initial-scale=1"/><meta name="theme-color" content="#1a0a2e"/><script async src="https://www.googletagmanager.com/gtag/js?id=G-00XCZDVDX6"></script><script>function gtag(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],gtag("js",new Date),gtag("config","G-00XCZDVDX6")</script><meta name="google-site-verification" content="eAFwAKFfWYKDYewvomchmAjJ5_hArFRFPFKma2gXozo"/><title>ASB Crystal Store | Spiritual Crystals, Gifts & Courses</title><meta name="description" content="Shop authentic spiritual crystals, healing stones, and sacred gifts at ASB Crystal Store. Explore our curated collection of crystals, gemstones, and spiritual courses. Free shipping above ₹1499."/><meta name="keywords" content="crystals, healing stones, spiritual gifts, gemstones, crystal shop India, spiritual courses, ASB store, asbcrystal"/><meta name="robots" content="index, follow"/><link rel="canonical" href="https://asbcrystal.in"/><meta property="og:type" content="website"/><meta property="og:url" content="https://asbcrystal.in"/><meta property="og:title" content="ASB Crystal Store | Spiritual Crystals, Gifts & Courses"/><meta property="og:description" content="Shop authentic spiritual crystals, healing stones, and sacred gifts. Explore curated crystals, gemstones, and spiritual courses."/><meta property="og:image" content="https://asbcrystal.in/og-image.jpg"/><meta property="og:site_name" content="ASB Crystal Store"/><meta property="og:locale" content="en_IN"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="ASB Crystal Store | Spiritual Crystals, Gifts & Courses"/><meta name="twitter:description" content="Shop authentic spiritual crystals, healing stones, and sacred gifts."/><meta name="twitter:image" content="https://asbcrystal.in/og-image.jpg"/><script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "ASB Crystal Store",
+    "url": "https://asbcrystal.in/",
+    "logo": "https://asbcrystal.in/logo.png",
+    "description": "ASB Crystal Store offers spiritual crystals, healing stones, sacred gifts, and courses designed for calm living, clarity, and positive energy.",
+    "sameAs": [
+      "https://www.instagram.com/",
+      "https://www.facebook.com/"
+    ],
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "customer support",
+      "areaServed": "IN",
+      "availableLanguage": ["English", "Hindi"]
+    }
+  }</script><script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "@id": "https://asbcrystal.in/#localbusiness",
+    "name": "ASB Crystal Store",
+    "image": "https://asbcrystal.in/logo.png",
+    "url": "https://asbcrystal.in/",
+    "telephone": "+91-9911299631",
+    "priceRange": "₹399",
+    "description": "ASB Crystal Store offers healing crystals, spiritual products, and energy tools for positivity, clarity, and peaceful living.",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "S7 RPS MALL, RPS SAVANA, SEC-88 Faridabad",
+      "addressLocality": "Faridabad",
+      "addressRegion": "Haryana",
+      "postalCode": "121002",
+      "addressCountry": "IN"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": "28.4089",
+      "longitude": "77.3178"
+    },
+    "openingHoursSpecification": {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"
+      ],
+      "opens": "10:00",
+      "closes": "19:00"
+    },
+    "sameAs": [
+      "https://www.instagram.com/",
+      "https://www.facebook.com/"
+    ]
+  }</script><script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "ASB Crystal Store",
+    "url": "https://asbcrystal.in/",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://asbcrystal.in/shop?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }</script><script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "https://asbcrystal.in/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Shop",
+        "item": "https://asbcrystal.in/shop"
+      }
+    ]
+  }</script><link rel="apple-touch-icon" href="/logo192.png?v=2"/><link rel="manifest" href="/manifest.json?v=2"/><script defer="defer" src="/static/js/main.e768a4c8.js"></script><link href="/static/css/main.917256b9.css" rel="stylesheet"></head><body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=G-00XCZDVDX6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div></body></html>
